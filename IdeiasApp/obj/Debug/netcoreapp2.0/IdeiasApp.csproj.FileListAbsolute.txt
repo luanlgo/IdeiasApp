@@ -1,0 +1,11 @@
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.csprojAssemblyReference.cache
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.csproj.CoreCompileInputs.cache
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.AssemblyInfoInputs.cache
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.AssemblyInfo.cs
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\bin\Debug\netcoreapp2.0\IdeiasApp.deps.json
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\bin\Debug\netcoreapp2.0\IdeiasApp.runtimeconfig.json
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\bin\Debug\netcoreapp2.0\IdeiasApp.runtimeconfig.dev.json
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\bin\Debug\netcoreapp2.0\IdeiasApp.dll
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\bin\Debug\netcoreapp2.0\IdeiasApp.pdb
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.dll
+C:\Users\Luan Gomes\source\repos\IdeiasApp\IdeiasApp\obj\Debug\netcoreapp2.0\IdeiasApp.pdb
